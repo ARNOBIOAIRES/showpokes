@@ -1,0 +1,26 @@
+.about {
+  text-align: center;
+}
+
+.about h1 {
+  font-size: 2em;
+  margin-bottom: 1em;
+}
+
+.about p {
+  max-width: 500px;
+  margin: 0 auto 1em;
+  line-height: 2;
+}
+
+/* 
+margin: 0 auto 1.5em
+explicando: zero indica que não tem definição
+auto o sistema divide o que sobrar nas laterais
+respeitando o larguara de 500px 
+
+0 é encima
+auto nas laterais
+1em embaixo
+
+*/
